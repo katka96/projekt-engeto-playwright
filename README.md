@@ -1,4 +1,4 @@
------ ZAČÁTEK README.md -----
+
 # Projekt: Tři automatizované testy
 
 ## Popis projektu
@@ -38,4 +38,4 @@ Spuštění s viditelným prohlížečem:
 ## Očekávaný výsledek
 
 3 passed
------ KONEC README.md -----
+
